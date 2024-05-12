@@ -18,3 +18,7 @@ Se você estiver interessado em iniciar o desenvolvimento Web pode se deparar co
 - Módulo 2 – Adicionar um HTML Básico ao seu aplicativo Web
 - Módulo 3 – Aplicar estilos ao HTML com o CSS
 - Módulo 4 – Adicionar interatividade com o JavaScript
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
