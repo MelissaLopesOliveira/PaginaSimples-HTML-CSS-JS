@@ -1,6 +1,6 @@
 # 💻 Página simples com HTML, CSS e JavaScript
 
-Acesse a página por [aqui](https://www.ev.org.br/cursos/crie-um-site-simples-usando-html-css-e-javascript).
+Acesse a página por [aqui](https://melissalopesoliveira.github.io/PaginaSimples-HTML-CSS-JS/).
 
 Neste curso, é apresentado os componentes básicos de um website e as ferramentas que poderá usar para iniciar o desenvolvimento Web, aprendendo a usar HTML, CSS e JavaScript para criar páginas web. Acesse a [página do curso](https://www.ev.org.br/cursos/crie-um-site-simples-usando-html-css-e-javascript).
 
